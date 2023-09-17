@@ -186,10 +186,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>17</ColumnNumber>
+      <ColumnNumber>24</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>3</TopLine>
-      <CurrentLine>19</CurrentLine>
+      <TopLine>26</TopLine>
+      <CurrentLine>44</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -205,81 +205,15 @@
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\Lib\Delay.c</PathWithFileName>
+      <PathWithFileName>..\..\Lib\Delay.c</PathWithFileName>
       <FilenameWithoutPath>Delay.c</FilenameWithoutPath>
-    </File>
-    <File>
-      <GroupNumber>1</GroupNumber>
-      <FileNumber>4</FileNumber>
-      <FileType>1</FileType>
-      <tvExp>0</tvExp>
-      <Focus>0</Focus>
-      <ColumnNumber>12</ColumnNumber>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>30</TopLine>
-      <CurrentLine>54</CurrentLine>
-      <bDave2>0</bDave2>
-      <PathWithFileName>..\Lib\Uart.c</PathWithFileName>
-      <FilenameWithoutPath>Uart.c</FilenameWithoutPath>
     </File>
   </Group>
 
   <AlienFiles>
-    <PathWithFilename>F:\KeilC\AT89C52\LIB\UART.H</PathWithFilename>
+    <PathWithFilename>F:\KeilC\AT89C52\SPI\SPI_slave\MAIN.H</PathWithFilename>
     <TopLine>1</TopLine>
-    <CurrentLine>16</CurrentLine>
-    <Constant>0</Constant>
-    <WindowPosition>
-      <length>0</length>
-      <flags>0</flags>
-      <showCmd>0</showCmd>
-      <MinPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MinPosition>
-      <MaxPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MaxPosition>
-      <NormalPosition>
-        <Top>0</Top>
-        <Left>0</Left>
-        <Right>0</Right>
-        <Bottom>0</Bottom>
-      </NormalPosition>
-    </WindowPosition>
-  </AlienFiles>
-
-  <AlienFiles>
-    <PathWithFilename>F:\KeilC\AT89C52\LIB\DELAY.H</PathWithFilename>
-    <TopLine>1</TopLine>
-    <CurrentLine>4</CurrentLine>
-    <Constant>0</Constant>
-    <WindowPosition>
-      <length>0</length>
-      <flags>0</flags>
-      <showCmd>0</showCmd>
-      <MinPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MinPosition>
-      <MaxPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MaxPosition>
-      <NormalPosition>
-        <Top>0</Top>
-        <Left>0</Left>
-        <Right>0</Right>
-        <Bottom>0</Bottom>
-      </NormalPosition>
-    </WindowPosition>
-  </AlienFiles>
-
-  <AlienFiles>
-    <PathWithFilename>F:\KeilC\AT89C52\UART\MAIN.H</PathWithFilename>
-    <TopLine>1</TopLine>
-    <CurrentLine>4</CurrentLine>
+    <CurrentLine>6</CurrentLine>
     <Constant>0</Constant>
     <WindowPosition>
       <length>0</length>
@@ -1647,33 +1581,15 @@
       <Documents>
         <Doc>
           <Name>.\main.c</Name>
-          <ColumnNumber>17</ColumnNumber>
-          <TopLine>3</TopLine>
-          <CurrentLine>19</CurrentLine>
+          <ColumnNumber>24</ColumnNumber>
+          <TopLine>26</TopLine>
+          <CurrentLine>44</CurrentLine>
         </Doc>
         <Doc>
-          <Name>..\UART\MAIN.H</Name>
-          <ColumnNumber>17</ColumnNumber>
+          <Name>MAIN.H</Name>
+          <ColumnNumber>22</ColumnNumber>
           <TopLine>1</TopLine>
-          <CurrentLine>4</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\LIB\DELAY.H</Name>
-          <ColumnNumber>11</ColumnNumber>
-          <TopLine>1</TopLine>
-          <CurrentLine>4</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\Lib\Uart.c</Name>
-          <ColumnNumber>12</ColumnNumber>
-          <TopLine>30</TopLine>
-          <CurrentLine>54</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\LIB\UART.H</Name>
-          <ColumnNumber>16</ColumnNumber>
-          <TopLine>1</TopLine>
-          <CurrentLine>16</CurrentLine>
+          <CurrentLine>6</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
